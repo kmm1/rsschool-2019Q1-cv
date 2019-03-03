@@ -1,13 +1,11 @@
 
 # Katerina Mihalenok
 
-
 <div>Phone: +375 44 742 87 51 </div>
 <div>Email: kate.mihalenok@gmail.com</div>
 <div>Skype: km.kathrin3</div>
 <div><a href="https://goo.gl/ukwSMy">Linkedin</a></div>
 <div><a href="https://github.com/kmm1">GitHub</a></div>
-
 
 ### Objective
 Applying for a position of a Java Developer
@@ -24,14 +22,13 @@ Frameworks: Maven, Hibernate, Spring Core/Security/ MVC/ Boot/ Data, JSP, Thymel
 Unit and integration testing: Junit, Hamcrest, Mockito
 
 ### Education
-`2017-2018`
-__Educational Center of HTP__
+`2017-2018`__Educational Center of HTP__
 - Course: Java fundamentals,
 Core, Patterns, Web, JDBC, Multithreading
 - Course: Java enterprise
 Maven, Tomcat, Git, Hibernate, Spring
-`2008-2012`
-__Belarusian National Technical University__
+
+`2008-2012`__Belarusian National Technical University__
 - Specialization: economics and management
 
 ### Work experience 
@@ -56,6 +53,5 @@ Read: "Design Patterns" Head first and Thinking in Java by B. Eckel.
 ### Covering letter
 
 <!-- ### Footer
-
 Last updated: Jan 2018 -->
 
