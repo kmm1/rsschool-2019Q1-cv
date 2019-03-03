@@ -52,3 +52,5 @@ Runs as an independent application through Spring Boot.
 ### Additional Information
 Reached 20 level on JavaRush.ru<br/>
 Read: "Design Patterns" Head first and Thinking in Java by B. Eckel.
+
+### Covering letter
